@@ -1,4 +1,4 @@
-//Search Insert Position
+//Search Insert Position.
 
 public class Solution {
     public int searchInsert(int[] nums, int target) {
